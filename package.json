@@ -74,11 +74,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kowserk7/37-cookies.git"
+    "url": "git+https://github.com/kowserk7/39-backend.git"
   },
   "bugs": {
-    "url": "https://github.com/kowserk7/37-cookies/issues"
+    "url": "https://github.com/kowserk7/39-backend/issues"
   },
-  "homepage": "https://github.com/kowserk7/37-cookies#readme",
+  "homepage": "https://github.com/kowserk7/39-backend#readme",
   "description": ""
 }
